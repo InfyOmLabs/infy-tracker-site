@@ -622,6 +622,10 @@ header {
     .add-box {
         padding: 10px 30px;
     }
+
+    .add-box .add-btn {
+        margin-top: 0;
+    }
 }
 
 .shield {
