@@ -618,6 +618,12 @@ header {
     background: #fff;
 }
 
+@media (min-width: 992px) {
+    .add-box {
+        padding: 10px 30px;
+    }
+}
+
 .shield {
     width: 100px;
     height: 100px;
@@ -641,9 +647,7 @@ header {
 
 .add-btn {
     display: inline-block;
-    float: right;
     vertical-align: middle;
-    margin: 25px 0 0;
 }
 
 @media (max-width: 1200px) {
