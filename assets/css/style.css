@@ -614,12 +614,12 @@ header {
 /* ==========================================================================
    ADD
    ========================================================================== */
-.add-section {
-    padding: 120px 0;
+.slider-section {
+    padding: 90px 0;
 }
 
 @media (max-width: 992px) {
-    .add-section {
+    .slider-section {
         padding: 60px 0;
         text-align: center;
     }
@@ -631,6 +631,10 @@ header {
     border-radius: 12px;
     padding: 30px;
     background: #fff;
+}
+
+.start-track-time {
+    margin-bottom: 24px;
 }
 
 @media (min-width: 992px) {
