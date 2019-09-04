@@ -330,7 +330,7 @@ header {
 
 
 .center-title--scrnshot {
-    margin: 38px;
+    margin-bottom: 38px;
 }
 
 .center-title p {
@@ -614,16 +614,6 @@ header {
 /* ==========================================================================
    ADD
    ========================================================================== */
-.slider-section {
-    padding: 90px 0;
-}
-
-@media (max-width: 992px) {
-    .slider-section {
-        padding: 60px 0;
-        text-align: center;
-    }
-}
 
 .add-box {
     -webkit-box-shadow: 0px 2px 28px -14px rgba(160, 158, 158, 0.75);
